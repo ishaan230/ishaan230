@@ -9,8 +9,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Structures and Algorithms
-- 👯 I’m looking to collaborate on Web Dev projects
+- 🔭 I’m currently working on new projects
+- 👯 I’m looking to collaborate on projects
 - 💬 Ask me about anything you like!
 - 📫 How to reach me:<br> 
 <a href="https://www.linkedin.com/in/ishaan-sharma-b8826a23b/">

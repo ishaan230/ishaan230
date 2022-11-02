@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/ishaan230">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishaan230&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishaan230&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishaan230&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishaan230&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </a>
 </p>
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/ishaan230/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan230&theme=radical#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan230&hide_border=true&theme=radical#version3"/>
   </a>
 </p>
 
